@@ -28,7 +28,11 @@ A interface foi construída seguindo a estética "Dark Mode" com tipografia robu
 * **Identidade Visual Forte:** Esquema de cores focado no contraste entre preto e laranja vibrante.
 
 ## 📸 Demonstração
-
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/e649559b-181f-49b3-8dc2-2a8262e520ee" />
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/cc9b3edb-b25d-4bfd-9432-0a72fd81087a" />
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/7cec891c-06b9-47c5-8f18-6b8abc5c1c7d" />
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/f1ed57ce-07bd-4e49-9207-2d401138bc05" />
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/981b4a9d-6fb5-470e-9cd5-2387a3cc4077" />
 
 
 ---
@@ -37,11 +41,11 @@ A interface foi construída seguindo a estética "Dark Mode" com tipografia robu
 
 1.  Clone este repositório:
     ```bash
-    git clone [https://github.com/seu-usuario/combat-landing-page.git](https://github.com/seu-usuario/combat-landing-page.git)
+    git clone [https://github.com/MeirejaneChaves605/Lutas.git](https://github.com/MeirejaneChaves605/Lutas.git)
     ```
 2.  Entre na pasta do projeto:
     ```bash
-    cd combat-landing-page
+    cd Lutas
     ```
 3.  Abra o arquivo `index.html` em seu navegador favorito.
 
